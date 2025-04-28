@@ -1,7 +1,7 @@
 
 # 💪 Mac Cleanup to Reduce System Data
 
-This guide summarizes the **essential steps** I used to clean my MacBook Air M1 and reduce "System Data" from **~70GB to ~35GB**.
+This guide summarizes the **essential steps** I used to clean my MacBook Air M1 and reduce "System Data" from **~73GB to ~38GB**.
 
 Focus: **lightweight**, **practical**, and **storage-saving**. 🚀
 
@@ -57,4 +57,14 @@ crontab -e
 
 > "Minimal clutter, faster Mac, maximum usable storage."
 
-✅ This helped me reclaim over **35GB** of lost storage!
+✅ This helped me reclaim over **30+GB** of lost storage!
+
+<h2 align="center">📸 System Data Before vs After Cleanup</h2>
+
+<p align="center">
+  <img src="imgs/before_cleanup.png" alt="Before Cleanup" width="45%" style="object-fit: contain;"/>
+  &nbsp; &nbsp; &nbsp;
+  <img src="imgs/after_cleanup.png" alt="After Cleanup" width="45%" style="object-fit: contain;"/>
+</p>
+
+
