@@ -1,9 +1,17 @@
 
-# 💪 Mac Cleanup to Reduce System Data
+# 💥 Mac Bloat Buster
 
 This guide summarizes the **essential steps** I used to clean my MacBook Air M1 and reduce "System Data" from **~73GB to ~38GB**.
 
 Focus: **lightweight**, **practical**, and **storage-saving**. 🚀
+
+## 🔍 Visualize Disk Usage
+
+To better understand where your disk space is being consumed, you can use:
+
+- **[GrandPerspective](https://grandperspectiv.sourceforge.io/)** (Free, lightweight graphical disk usage visualizer)
+
+✅ GrandPerspective helps you create a visual map of your files and folders, making it easy to spot large and unnecessary files.
 
 ---
 
